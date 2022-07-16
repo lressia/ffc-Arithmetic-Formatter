@@ -34,4 +34,4 @@ def arithmetic_arranger(a, b=False):
         print("Error: Too many problems.")
 
 
-arithmetic_arranger(["32 + 698", "3801 - 2", "45 + 43", "123 + 49"], True)
+
